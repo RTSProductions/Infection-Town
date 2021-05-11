@@ -61,7 +61,7 @@
     <Compile Include="Assets/Scripts/SunRotate.cs" />
     <Compile Include="Assets/NavMeshComponents/Scripts/NavMeshLink.cs" />
     <Compile Include="Assets/Scripts/Enviroment.cs" />
-    <Compile Include="Assets/Scripts/Citzen.cs" />
+    <Compile Include="Assets/Scripts/Citizen.cs" />
     <Compile Include="Assets/NavMeshComponents/Scripts/NavMeshModifier.cs" />
     <Compile Include="Assets/Scripts/Throwable.cs" />
     <Compile Include="Assets/Scripts/FocusOnObject.cs" />
@@ -309,6 +309,12 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>/Applications/Unity/Hub/Editor/2020.3.0f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>/Applications/Unity/Hub/Editor/2020.3.0f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

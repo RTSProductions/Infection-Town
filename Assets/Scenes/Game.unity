@@ -904,7 +904,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb1f0bcb4543e42c38428e73f5bdcaf8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  citzenCount: 300
+  InfectedCitizens: 0
+  UnInfectedCitizens: 0
+  IsPandemic: 0
+  startCitzenCount: 300
+  startInfectedCount: 1
   throwAbleCount: 0
   ground:
     serializedVersion: 2
@@ -915,10 +919,8 @@ MonoBehaviour:
   citzenPrefab: {fileID: 6015663012042449353, guid: ab75c20570400490fa5ca3b7b2c18962, type: 3}
   UI: {fileID: 514586156}
   maxThrowUpChance: 9
-  infectedPrefab: {fileID: 6015663012042449353, guid: 0102c095dac1f4ad2911582abf1d5d75, type: 3}
   timeScale: 1
   spawnRange: 99.32
-  infectedCount: 1
   throwAbles:
   - {fileID: 7970441852744347081, guid: ab9b4f25bfcfd457a954b990eabf43a1, type: 3}
   - {fileID: 6571151334078631227, guid: 155adaa47ab92443da19dba83bb0366d, type: 3}
