@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DB9F9122-0A73-8EE1-A19B-8AFBC7F41B3E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enviroment.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enviroment.cs" Line="125" Column="19" />
+      <File FileName="Assets/Scripts/Citzen.cs" Line="304" Column="1" />
+      <File FileName="Assets/Scripts/Waypoint.cs" />
+      <File FileName="Assets/Scripts/Editor/WaypointEditor.cs" />
+      <File FileName="Assets/Scripts/Throwable.cs" />
+      <File FileName="Assets/Scripts/SunRotate.cs" />
+      <File FileName="Assets/Scripts/FocusOnObject.cs" />
+      <File FileName="Assets/Scripts/SimpleCameraController.cs" Line="145" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e17a42bd-7e42-4b64-b59d-86f7f8893a8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

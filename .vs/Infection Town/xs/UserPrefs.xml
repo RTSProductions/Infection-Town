@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7C1296B8-7BB4-0E41-4897-FC62FC22CF6F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Citzen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Citzen.cs" Line="162" Column="30" />
+      <File FileName="Assets/Scripts/Enviroment.cs" Line="73" Column="52" />
+      <File FileName="Assets/Scripts/Vomit.cs" Line="26" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5aa2a76a-84d9-48f0-9746-38adae1c61de" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
